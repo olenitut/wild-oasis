@@ -1,0 +1,27 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Kyappesel’ga",
+      "country": "Russian Federation (the)",
+      "date": "2023-07-04T05:54:29.392Z",
+      "notes": "",
+      "position": {
+        "lat": "62.70663861357521",
+        "lng": "34.361170186819365"
+      },
+      "id": 98443200
+    }
+  ]
+}

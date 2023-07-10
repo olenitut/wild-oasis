@@ -1,0 +1,12 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "no-debugger": "warn",
+    "react/prop-types": [
+      "warn",
+      {
+        "skipUndeclared": true
+      }
+    ]
+  }
+}
